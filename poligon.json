@@ -1,0 +1,4 @@
+let firstJson = '{
+	"value":1
+}'
+let s = 0
